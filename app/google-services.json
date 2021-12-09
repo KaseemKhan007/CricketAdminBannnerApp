@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179390703837",
+    "project_id": "cricketapps-ea87f",
+    "storage_bucket": "cricketapps-ea87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179390703837:android:9479051092d7fc297c1334",
+        "android_client_info": {
+          "package_name": "com.example.cricketapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179390703837-lr8ar51hec5ehpsuvissbhleve5moke3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKgmzKT0rO9oRlSFFjTXWNYkQBBVigg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179390703837-lr8ar51hec5ehpsuvissbhleve5moke3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
